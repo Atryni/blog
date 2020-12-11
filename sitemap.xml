@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://sawczuk.dev/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/reboot-your-raspberry-pi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/vps-with-2tb-cloud-storage</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/task-runner-that-resolves-missing-pipeline-events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/your-own-vpn-service-in-usa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/magic-of-whiptail-squid-proxy-instalation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/detailed-description-of-your-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/learning-programming-not-always-have-to-be-boring</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/know-what-beef-you-want-to-add-to-the-basket</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/knowledge-books-food-recipes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/knowledge-books-photography-inspirations-and-cheat-sheets</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/why-dockerizing-production-isnt-bad-idea</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/knowledge-books-python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/posts/queuing-jobs-in-apps-is-easier-than-you-think</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/ci-cd</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/cooking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/dev</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/dev/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/knowledge-books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/ops-dev-ops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/photography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/tag/technology/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/category/cooking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/category/photography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/category/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/category/technology/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sawczuk.dev/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
